@@ -2,4 +2,4 @@
 
 ###Este é um repositório com scripts onde exercitei python.
 
-<img src="Imagem/git_hub.png" width="30%">
+<img src="Imagem/git_hub.png" width="50%">
