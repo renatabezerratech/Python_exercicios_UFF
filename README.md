@@ -3,11 +3,11 @@
 ###Este é um repositório de aprendizado, erros e acertos de meu aprendizado em Python.
 ###Em construção.
 
-<img src="Imagem/PyEdu.png" width="30%">
+<img src="Imagem/PyEdu.png" width="50%">
 
 ###Este é um lembrete sobre o funcionamento básico do git:
 
-<img src="Imagem/git_hub.png" width="30%">
+<img src="Imagem/git_hub.png" width="50%">
 
 #Sobre o projeto:
 
